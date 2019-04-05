@@ -41,6 +41,13 @@ Inside the script the **parameters** for the\
 
 See the example for more information.
 
+## Run Script
+
+You dont have to pass any arguments.\ 
+How ever you shoukd adjust inside the script!
+
+**Just Run:** python3 perm.py
+
 
 # Example
 
