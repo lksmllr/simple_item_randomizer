@@ -46,7 +46,7 @@ See the example for more information.
 You dont have to pass any arguments.\ 
 How ever you shoukd adjust inside the script!
 
-**Just Run:** python3 perm.py
+**Just Run:**   python3 perm.py
 
 
 # Example
