@@ -44,8 +44,8 @@ See the example for more information.
 
 # Example
 
-You can find the input items.csv [here]()\
-Based on that the output will look like [this]()
+You can find the input items.csv [here](https://github.com/lksmllr/simple_item_randomizer/tree/master/items)\
+Based on that the output will look like [this](https://github.com/lksmllr/simple_item_randomizer/tree/master/perms)
 
 
 
